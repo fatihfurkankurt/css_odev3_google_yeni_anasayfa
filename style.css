@@ -80,6 +80,7 @@ a:hover{
     color: #5f6368;
     font-size: 14px;
 }
+
 .googlesearch:hover {
     box-shadow: 0 2px 2px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
@@ -119,6 +120,7 @@ footer {
     padding-left: 18px;
     flex: 1;
 }
+
 .footer2 {
     padding-right: 18px;
     padding-top: 13px;
